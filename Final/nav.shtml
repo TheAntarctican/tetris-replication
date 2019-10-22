@@ -1,0 +1,25 @@
+<div class="nav"></div>
+	<div class="nav_content">
+		<a href= "https://tetris.com/">Tetris Website</a>
+		</br>
+		</br>
+        <a href="list1.html">Link to Description of Fun Tetris Shapes!</a>
+		</br>
+		</br>
+		<a href="table1.html">Click here to see Schedule</a>
+		</br>
+		</br>
+		<a href="lincon_index.html">Click to see Information about the 16th U.S. President</a>
+		</br>
+		</br>
+		<a href="layout_example.html">Click here to see what the "Holy Grail" of Web design looks like</a>
+		</br>
+		</br>
+		<a href="style_demo.html">An example Style for a web-page</a>
+		</br>
+		</br>
+		<a href="cavas.html">A Moving Canvas</a>
+		</br>
+		</br>
+		<a href="carousel_example.html">A Carousel</a>
+	</div>
